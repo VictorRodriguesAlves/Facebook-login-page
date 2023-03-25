@@ -1,0 +1,16 @@
+.btn-success{
+    background-color:#42b72a !important;
+    border: 1px solid #42b72a !important;
+}
+
+.btn-success:hover{
+    background-color: #43a52f !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+a:hover{
+    text-decoration: underline !important;
+}
